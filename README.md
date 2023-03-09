@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in Fullstack Developmemnt
-- 🌱 I’m currently learning React and Spring boot
+- 🌱 I’m currently learning React , Spring boot and MERN 
 - 💞️ I’m looking to collaborate on any Fullstack Project
 - 📫 Reach me here: https://www.linkedin.com/in/rahul2016/ 
 
